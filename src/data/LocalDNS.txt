@@ -1,0 +1,7 @@
+naver.com 223.130.192.247
+google.com 142.251.222.46
+daum.net 211.249.220.24
+kookmin.ac.kr 113.198.215.98
+youtube.com 142.250.207.110
+instagram.com 31.13.76.174
+facebook.com 31.13.76.35
